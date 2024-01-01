@@ -127,7 +127,7 @@ img.socialIcon {
   width: 30px;
 }
 
-@keyframes slideInLeft {
+@keyframes slideIn {
   0% {
     transform: translateX(-100%);
   }
